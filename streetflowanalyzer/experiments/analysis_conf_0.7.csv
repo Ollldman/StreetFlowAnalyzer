@@ -1,0 +1,28 @@
+total_vehicles,density,avg_bbox_area,car,truck,scene_type,filename
+0,0.0,0.0,0,0,Empty,data/dataset/img2.jpeg
+10,0.2226,4840.7,10,0,Heavy Traffic,data/dataset/22.png
+0,0.0,0.0,0,0,Empty,data/dataset/img13.jpg
+10,0.5266,110195.1,10,0,Traffic Jam,data/dataset/33.png
+1,0.3062,125426.0,0,1,Single Big Object,data/dataset/img15.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img11.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img19.jpg
+2,0.1597,40327.5,2,0,Sparse Traffic,data/dataset/img1.jpg
+2,0.3317,67932.0,0,2,,data/dataset/img21.jpg
+2,0.2343,47978.5,1,1,Sparse Traffic,data/dataset/img4.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img6.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img10.jpg
+1,0.0149,6110.0,1,0,Sparse Traffic,data/dataset/img8.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img17.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img5.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img12.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img7.jpg
+1,0.5062,207328.0,0,1,Single Big Object,data/dataset/img20.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img24.png
+0,0.0,0.0,0,0,Empty,data/dataset/img18.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img3.jpg
+2,0.2459,50355.0,0,2,Sparse Traffic,data/dataset/img23.jpg
+2,0.3385,69330.5,1,1,,data/dataset/img22.jpg
+1,0.0113,16214.0,1,0,Sparse Traffic,data/dataset/11.png
+0,0.0,0.0,0,0,Empty,data/dataset/img9.jpg
+0,0.0,0.0,0,0,Empty,data/dataset/img14.jpg
+1,0.549,224890.0,0,1,Single Big Object,data/dataset/img16.jpg

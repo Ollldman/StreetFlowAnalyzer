@@ -112,6 +112,7 @@ env.bak/
 venv.bak/
 
 *.ttf
+*.pt
 dataset/
 # Spyder project settings
 .spyderproject
